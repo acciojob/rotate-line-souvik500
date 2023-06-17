@@ -1,5 +1,3 @@
-//your JS code here. If required.
-//your JS code here. If required.
 
 function rotateLine() {
   var line = document.getElementById("line");
